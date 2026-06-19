@@ -11,7 +11,7 @@
             margin: 50px auto;
             padding: 0 20px;
             line-height: 1.6;
-            color: #333; 
+            color: #333;
         }
         h1 {
             border-bottom: 2px solid #0366d6;
